@@ -1,0 +1,3 @@
+/workspace/tum_s3/cmake/code/v1/build/CMakeFiles/rebuild_cache.dir
+/workspace/tum_s3/cmake/code/v1/build/CMakeFiles/edit_cache.dir
+/workspace/tum_s3/cmake/code/v1/build/CMakeFiles/app.dir

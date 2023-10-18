@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/workspace/tum_s3/cmake/code/v5/build",
+  "command": "/usr/bin/g++   -I/workspace/tum_s3/cmake/code/v5/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/add.cpp.o -c /workspace/tum_s3/cmake/code/v5/src/add.cpp",
+  "file": "/workspace/tum_s3/cmake/code/v5/src/add.cpp"
+},
+{
+  "directory": "/workspace/tum_s3/cmake/code/v5/build",
+  "command": "/usr/bin/g++   -I/workspace/tum_s3/cmake/code/v5/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/div.cpp.o -c /workspace/tum_s3/cmake/code/v5/src/div.cpp",
+  "file": "/workspace/tum_s3/cmake/code/v5/src/div.cpp"
+},
+{
+  "directory": "/workspace/tum_s3/cmake/code/v5/build",
+  "command": "/usr/bin/g++   -I/workspace/tum_s3/cmake/code/v5/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/main.cpp.o -c /workspace/tum_s3/cmake/code/v5/src/main.cpp",
+  "file": "/workspace/tum_s3/cmake/code/v5/src/main.cpp"
+},
+{
+  "directory": "/workspace/tum_s3/cmake/code/v5/build",
+  "command": "/usr/bin/g++   -I/workspace/tum_s3/cmake/code/v5/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/mult.cpp.o -c /workspace/tum_s3/cmake/code/v5/src/mult.cpp",
+  "file": "/workspace/tum_s3/cmake/code/v5/src/mult.cpp"
+},
+{
+  "directory": "/workspace/tum_s3/cmake/code/v5/build",
+  "command": "/usr/bin/g++   -I/workspace/tum_s3/cmake/code/v5/include  -g   -std=gnu++11 -o CMakeFiles/app.dir/src/sub.cpp.o -c /workspace/tum_s3/cmake/code/v5/src/sub.cpp",
+  "file": "/workspace/tum_s3/cmake/code/v5/src/sub.cpp"
+}
+]

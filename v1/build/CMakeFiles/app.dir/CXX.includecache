@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/head.h
+
+/workspace/tum_s3/cmake/code/v1/src/add.cpp
+stdio.h
+-
+head.h
+/workspace/tum_s3/cmake/code/v1/src/head.h
+
+/workspace/tum_s3/cmake/code/v1/src/div.cpp
+stdio.h
+-
+head.h
+/workspace/tum_s3/cmake/code/v1/src/head.h
+
+/workspace/tum_s3/cmake/code/v1/src/main.cpp
+stdio.h
+-
+head.h
+/workspace/tum_s3/cmake/code/v1/src/head.h
+
+/workspace/tum_s3/cmake/code/v1/src/mult.cpp
+stdio.h
+-
+head.h
+/workspace/tum_s3/cmake/code/v1/src/head.h
+
+/workspace/tum_s3/cmake/code/v1/src/sub.cpp
+stdio.h
+-
+head.h
+/workspace/tum_s3/cmake/code/v1/src/head.h
+
